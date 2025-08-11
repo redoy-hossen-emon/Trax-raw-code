@@ -47,7 +47,9 @@ a {
   margin: 0 auto;
 }
 
-
+#menubar {
+  padding: 0;
+}
 
 header {
   width: 100vw;
@@ -138,6 +140,7 @@ ul.mainMenu li a:focus {
   height: 670px;
   margin: 0px;
   position: relative;
+  overflow: hidden;
 }
 
 
@@ -688,10 +691,7 @@ section {
   transform: scale(1.1);
 }
 
-#pricing {
-  width: 100%;
-  position: relative;
-}
+
 
 .price-head {
   width: 100%;
@@ -974,18 +974,15 @@ ul.blog-list li p {
   margin-right: 30px;
 }
 
-section#contact {
-  width: 100%;
-  height: auto;
-  background: #ffabff7a;
-  margin: 0px;
-  padding-top: 80px;
-  padding-bottom: 50px;
+.bg-primary {
+  background-color: #ffabff7a;
+  ;
 }
 
+/* 
 section#contact h2 {
   text-align: left;
-}
+} */
 
 p.aboutTxt {
   font-size: 20px;
