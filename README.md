@@ -34,6 +34,7 @@ Open index.html in your browser.
 
 📸 Preview
 
-(https://github.com/redoy-hossen-emon/Trax-raw-code/blob/main/Trax-preview.png)
+(https://github.com/redoy-hossen-emon/Trax-raw-code/blob/main/Trax-preview1.png)
+(https://github.com/redoy-hossen-emon/Trax-raw-code/blob/main/Trax-preview2.png)
 
 Made with ❤️ by [redoy Hossen]
