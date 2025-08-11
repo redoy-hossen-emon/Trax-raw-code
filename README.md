@@ -13,9 +13,13 @@ The design is kept minimal and professional, with updated, relevant text for rea
 
 ## 📂 Project Structure
 ├── index.html # Main page structure
+
 ├── style.css # Styling design
+
 ├── responsive.css # Responsive design
+
 ├── script.js # Interactive functionality
+
 └── README.md # Project documentation
 
 
@@ -35,6 +39,7 @@ Open index.html in your browser.
 📸 Preview
 
 (https://github.com/redoy-hossen-emon/Trax-raw-code/blob/main/Trax-preview2.png)
+
 (https://github.com/redoy-hossen-emon/Trax-raw-code/blob/main/Trax-preview1.png)
 
 Made with ❤️ by [redoy Hossen]
